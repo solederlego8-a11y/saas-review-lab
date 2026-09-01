@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://solederlego8-a11y.github.io/saas-review-lab/sitemap.xml

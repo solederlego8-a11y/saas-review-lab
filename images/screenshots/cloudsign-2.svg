@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#0F172A"/>
+  <rect x="0" y="0" width="1280" height="64" fill="#1E293B"/>
+  <circle cx="32" cy="32" r="10" fill="#2563EB"/>
+  <text x="60" y="40" font-family="Arial, sans-serif" font-size="20" fill="#FAFAFA">クラウドサイン - 契約書送信画面</text>
+  <rect x="40" y="100" width="1200" height="180" rx="12" fill="#1E293B"/>
+  <text x="60" y="150" font-family="Arial, sans-serif" font-size="16" fill="#94A3B8">送信先メールアドレス入力</text>
+  <text x="60" y="200" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2563EB">電子署名依頼</text>
+  <text x="1280" y="700" font-family="Arial, sans-serif" font-size="14" fill="#475569" text-anchor="end">Placeholder screenshot for demo purposes</text>
+</svg>
