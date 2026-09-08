@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: http://localhost:3000/sitemap.xml
+Sitemap: https://solederlego8-a11y.github.io/saas-review-lab/sitemap.xml
