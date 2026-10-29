@@ -22,7 +22,7 @@
 <!-- article-index:start -->
 ## SaaS Review Lab 公開中のページ一覧
 
-中小企業のバックオフィスSaaSの選び方。料金・導入前の確認点・乗り換え手順を整理しています。
+中小企業のバックオフィスSaaS
 
 サイト: https://solederlego8-a11y.github.io/saas-review-lab/
 
@@ -37,6 +37,23 @@
 - [お問い合わせ](https://solederlego8-a11y.github.io/saas-review-lab/contact)
 
 ### blog
+- [BASEを退会するには？最終注文から60日と売上金の振込申請期限](https://solederlego8-a11y.github.io/saas-review-lab/blog/base-taikai-shop-heisa-uriagekin-furikomi-kigen)
+- [XServerドメインの自動更新を止めるには？引き落とし月の19日まで](https://solederlego8-a11y.github.io/saas-review-lab/blog/xserver-domain-jidou-koshin-teishi-kaiyaku-henkin)
+- [グーペは解約すると返金される？毎月14日の期限と途中解約の損失額](https://solederlego8-a11y.github.io/saas-review-lab/blog/goope-kaiyaku-henkin-fukanou-mai14nichi-kigen)
+- [マネーフォワード クラウド会計の途中解約は日割り返金される？年払いは満額](https://solederlego8-a11y.github.io/saas-review-lab/blog/money-forward-cloud-kaikei-tochu-kaiyaku-hiwari-henkin-nenbarai)
+- [Nottaの無料トライアルは自動課金される？終了後は年額14,220円](https://solederlego8-a11y.github.io/saas-review-lab/blog/notta-muryo-trial-jidou-kakin-kaiyaku-kigen)
+- [Nottaプレミアムで請求書は発行できる？領収書はPCのみ](https://solederlego8-a11y.github.io/saas-review-lab/blog/notta-premium-seikyusho-ryoshusho-hakko)
+- [グーペの無料おためし15日後はどうなる？自動退会で料金は発生しない](https://solederlego8-a11y.github.io/saas-review-lab/blog/goope-muryo-otameshi-15nichi-ato-jidou-taikai-koshin)
+- [Nottaの無料プランの制限は？1回3分・月120分で会議に使えるか](https://solederlego8-a11y.github.io/saas-review-lab/blog/notta-muryo-plan-seigen-3fun-120fun)
+- [お名前.comのドメインを解約できない？自動更新は16日前までに解除](https://solederlego8-a11y.github.io/saas-review-lab/blog/onamae-com-kaiyaku-dekinai-jidou-koshin-kaijo)
+- [マネーフォワード クラウド会計の法人料金はいくら？ひとり法人との違い](https://solederlego8-a11y.github.io/saas-review-lab/blog/money-forward-cloud-kaikei-hojin-ryokin-ikura-hitori-hojin)
+- [レンタルサーバーは途中解約で返金される？mixhostとエックスサーバー](https://solederlego8-a11y.github.io/saas-review-lab/blog/rental-server-chuto-kaiyaku-henkin-mixhost-xserver)
+- [freeeを解約するとデータはどうなる？マネーフォワードと比較](https://solederlego8-a11y.github.io/saas-review-lab/blog/freee-mf-kaiyaku-go-data-dounaru)
+- [開業時に契約するものの順番｜会計・ドメイン・電話の判断フロー](https://solederlego8-a11y.github.io/saas-review-lab/blog/kaigyo-keiyaku-junban-kaikei-domain-denwa-hantei-flow)
+- [お名前.comとXServerドメインの違い｜更新料と移管で比較](https://solederlego8-a11y.github.io/saas-review-lab/blog/domain-onamae-xserver-domain-hikaku-koshinryo)
+- [mixhostとエックスサーバーを比較｜初回割引と更新後の月額](https://solederlego8-a11y.github.io/saas-review-lab/blog/mixhost-xserver-hikaku-koshin-kakaku)
+- [経理・事務は外注か会計ソフトか｜月20時間の費用と損益分岐で判断](https://solederlego8-a11y.github.io/saas-review-lab/blog/keiri-jimu-gaichu-online-assistant-vs-kaikei-soft)
+- [ホームページの写真素材は買うべきか｜イメージマートの料金と使い分け](https://solederlego8-a11y.github.io/saas-review-lab/blog/homepage-shashin-sozai-imagemart-hpdx-hiyo)
 - [開業時の固定電話にかかる費用｜ひかり電話と電話加入権不要プラン](https://solederlego8-a11y.github.io/saas-review-lab/blog/kaigyo-kotei-denwa-hikari-denwa-kanyuken-fuyo-hiyo)
 - [飲食店のホームページ作成を月額で比較｜予約機能つきで3年間いくらか](https://solederlego8-a11y.github.io/saas-review-lab/blog/inshokuten-homepage-getsugaku-yoyaku-hikaku)
 - [BASEのグロースプランに切り替える月商の目安｜手数料の損益分岐を計算](https://solederlego8-a11y.github.io/saas-review-lab/blog/base-growth-plan-kirikae-getsusho-tesuryo)
@@ -106,6 +123,12 @@
 - [電話加入権.comの固定電話サービス｜ひかり電話の料金と電話加入権不要プラン](https://solederlego8-a11y.github.io/saas-review-lab/reviews/denwa-kanyuken-com-review)
 - [デジタルデータリカバリーの料金と流れ｜初期診断無料・復旧できない場合の費用](https://solederlego8-a11y.github.io/saas-review-lab/reviews/ddr-data-recovery-review)
 - [HAKU PCレンタルの料金｜ライト3,300円〜の3プランと注意点](https://solederlego8-a11y.github.io/saas-review-lab/reviews/haku-pc-rental-review)
+- [mixhostの料金｜初回と更新後の月額差と30日間返金保証を整理](https://solederlego8-a11y.github.io/saas-review-lab/reviews/mixhost-review)
+- [XServerドメインの料金｜.com・.net・.jpの取得・更新・移管を整理](https://solederlego8-a11y.github.io/saas-review-lab/reviews/xserver-domain-review)
+- [お名前.comのドメイン料金｜1円キャンペーンと更新料の見方](https://solederlego8-a11y.github.io/saas-review-lab/reviews/onamae-com-review)
+- [ホームページDX（HPDX）とは｜ECサイト制作と補助金プランの確認点](https://solederlego8-a11y.github.io/saas-review-lab/reviews/hpdx-review)
+- [イメージマートの料金｜単品550円からと定額プランの月額を整理](https://solederlego8-a11y.github.io/saas-review-lab/reviews/imagemart-review)
+- [物流倉庫一括.jpの使い方｜無料の一括見積もりの流れと確認点](https://solederlego8-a11y.github.io/saas-review-lab/reviews/ikkatsu-souko-review)
 
 ### tools
 - [バックオフィスSaaSの月額コスト試算ツール｜置き換え前後を比較](https://solederlego8-a11y.github.io/saas-review-lab/tools/backoffice-cost)
